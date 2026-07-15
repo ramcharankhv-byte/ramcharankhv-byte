@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramcharankhv-byte&show_icons=true&locale=en&layout=compact" alt="ramcharankhv-byte" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramcharankhv-byte&show_icons=true&locale=en" alt="ramcharankhv-byte" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramcharankhv-byte&show_icons=true&locale=en" alt="ramcharankhv-byte" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramcharankhv-byte&" alt="ramcharankhv-byte" /></p>
 
