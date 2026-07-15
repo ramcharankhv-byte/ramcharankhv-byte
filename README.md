@@ -112,8 +112,6 @@ I care less about chasing frameworks and more about understanding *why* somethin
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=2&section=header" width="100%"/>
-
 ## Featured Projects
 
 <br>
