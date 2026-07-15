@@ -1,19 +1,253 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=200&section=header&text=KHVS%20Ramcharan&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Developer&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
 
+<br>
 
-👋 Hi, I'm KHVS Ramcharan<br><br>🎓 CSE Undergraduate at Andhra University<br>💻 Aspiring Full Stack + AI Developer<br> <br><br>🚀 About Me<br>🎯 Currently learning and building Full Stack Development<br>🤖 Interested in AI, Data Structures & Scalable Web Apps<br>🧠 Love solving problems and participating in tech competitions<br>🌱 Constantly improving my development and problem-solving skills<br><br>🏆 Achievements<br>🥈 2nd Place – Technical Quiz, CSSE, Andhra University<br>🥉 3rd Place – Hackathon, CSSE, Andhra University<br>🚀 Nominated for Smart India Hackathon (SIH) from Andhra University<br>🎯 Career Goals<br><br>I’m working towards becoming a Full Stack AI Developer who builds intelligent, real-world products by combining:<br><br>Web Development<br>Data Structures & Algorithms<br>Artificial Intelligence<br>📈 Currently Focusing On<br>Advanced Full Stack Projects<br>Problem Solving & DSA<br>Integrating AI into Web Applications<br>🤝 Let's Connect<br><br>⭐ Always open to learning, collaboration and exciting opportunities!
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+products+with+code;Backend-first+%7C+AI-curious+%7C+Always+shipping;CSE+Undergraduate+%40+Andhra+University;Turning+ideas+into+scalable+systems" alt="Typing SVG" />
+</a>
 
+<br><br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramcharan_5432) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramcharan-k-752010382/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramcharankhv@gmail.com) 
+<a href="https://www.linkedin.com/in/ramcharan-k-752010382/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/ramcharan_5432"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="mailto:ramcharankhv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramcharankhv-byte&show_icons=true&locale=en&layout=compact" alt="ramcharankhv-byte" /></p> -->
+</div>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramcharankhv-byte&show_icons=true&locale=en" alt="ramcharankhv-byte" /></p> -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=2&section=header" width="100%"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramcharankhv-byte&" alt="ramcharankhv-byte" /></p>
+## About Me
 
+I'm a Computer Science undergraduate at **Andhra University** with a backend-first mindset and a growing obsession with AI systems. I started out writing simple scripts to automate small annoyances, and somewhere between debugging a broken API at 2 AM and watching a model finally converge, I realized I wanted to spend my career at the intersection of **robust engineering** and **intelligent systems**.
 
+I care less about chasing frameworks and more about understanding *why* something works — how a request travels through a server, how a database index actually saves milliseconds, how an agent decides its next action. That curiosity has pushed me through hackathons, quizzes, and a nomination for **Smart India Hackathon (SIH)**, and it's the same curiosity driving me toward becoming a full-stack engineer who can ship AI-native products end to end.
+
+<details>
+<summary><b>A few things I believe in</b></summary>
+<br>
+
+- Clean, boring code beats clever, fragile code.
+- Understanding the problem is 80% of solving it.
+- The best products are built at the intersection of good UX and solid systems.
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=2&section=header" width="100%"/>
+
+## Current Focus
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| **TypeScript** <br> Typed, scalable JS | **FastAPI** <br> High-performance APIs | **Backend Engineering** <br> Systems that don't fall over |
+| **AI Agents** <br> Autonomous workflows | **System Design** <br> Designing for scale | **Machine Learning** <br> Models that generalize |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=2&section=header" width="100%"/>
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=c,java,python,js,ts&theme=dark" />
+
+<br><br>
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap&theme=dark" />
+
+<br><br>
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" />
+
+<br><br>
+
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" />
+
+<br><br>
+
+**DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify&theme=dark" />
+
+<br><br>
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=postman,vscode,figma,canva&theme=dark" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=2&section=header" width="100%"/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ramcharankhv-byte&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramcharankhv-byte&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramcharankhv-byte&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="90%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramcharankhv-byte&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&hide_border=true" width="90%" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/ramcharankhv-byte/ramcharankhv-byte/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+</div>
+
+> **Note:** The snake animation above requires a one-time GitHub Actions workflow (`Platane/snk`) pushing to an `output` branch on this repo — set it up once and it updates automatically on every commit.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=2&section=header" width="100%"/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Project One
+A short, punchy description of what this project does and the problem it solves for its users.
+
+**Stack:** `React` `Node.js` `MongoDB`
+
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Project Two
+A short, punchy description of what this project does and the problem it solves for its users.
+
+**Stack:** `Flask` `Python` `Postman`
+
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Project Three
+A short, punchy description of what this project does and the problem it solves for its users.
+
+**Stack:** `TypeScript` `Express` `JWT`
+
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Project Four
+A short, punchy description of what this project does and the problem it solves for its users.
+
+**Stack:** `FastAPI` `AI Agents` `Python`
+
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+
+> Replace the placeholders above with your real repo links, live demo URLs, and 1–2 line descriptions for maximum recruiter impact.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=2&section=header" width="100%"/>
+
+## Learning Roadmap
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[TypeScript] --> B[FastAPI]
+    B --> C[System Design]
+    C --> D[AI]
+    D --> E[Machine Learning]
+
+    style A fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
+    style B fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
+    style C fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
+    style D fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
+    style E fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=2&section=header" width="100%"/>
+
+## Goals for 2026
+
+**Master System Design**
+![](https://progress-bar.xyz/70?title=progress&width=400&color=58a6ff&suffix=%25)
+
+**Ship a production-grade AI Agent**
+![](https://progress-bar.xyz/55?title=progress&width=400&color=58a6ff&suffix=%25)
+
+**Contribute to open-source projects**
+![](https://progress-bar.xyz/40?title=progress&width=400&color=58a6ff&suffix=%25)
+
+**Deepen Machine Learning fundamentals**
+![](https://progress-bar.xyz/35?title=progress&width=400&color=58a6ff&suffix=%25)
+
+**Land a Full Stack / AI role**
+![](https://progress-bar.xyz/60?title=progress&width=400&color=58a6ff&suffix=%25)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=2&section=header" width="100%"/>
+
+## Fun Facts
+
+<div align="center">
+
+| | |
+|:---|:---|
+| 🥈 | Placed 2nd in the CSSE Technical Quiz at Andhra University |
+| 🥉 | Placed 3rd in a Hackathon at CSSE, Andhra University |
+| 🚀 | Nominated for Smart India Hackathon (SIH) |
+| 🌙 | Most productive between 11 PM and 2 AM |
+| ☕ | Believes good code and good coffee are non-negotiable |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=2&section=header" width="100%"/>
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ramcharan-k-752010382/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/ramcharan_5432">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:ramcharankhv@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+*Always open to learning, collaboration, and exciting opportunities.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0d1117&height=120&section=footer" width="100%"/>
