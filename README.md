@@ -10,7 +10,7 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/ramcharan-k-752010382/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sai-ramcharan-k-752010382/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/ramcharan_5432"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 <a href="mailto:ramcharankhv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
@@ -95,8 +95,6 @@ I care less about chasing frameworks and more about understanding *why* somethin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ramcharankhv-byte&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramcharankhv-byte&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%" />
 
 <br>
 
@@ -205,7 +203,7 @@ graph LR
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ramcharan-k-752010382/">
+<a href="https://www.linkedin.com/in/sai-ramcharan-k-752010382/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/ramcharan_5432">
