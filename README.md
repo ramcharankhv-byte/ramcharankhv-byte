@@ -106,7 +106,6 @@ I care less about chasing frameworks and more about understanding *why* somethin
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/ramcharankhv-byte/ramcharankhv-byte/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
 </div>
 
