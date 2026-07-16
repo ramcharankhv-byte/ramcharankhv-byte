@@ -158,27 +158,7 @@ I care less about chasing frameworks and more about understanding *why* somethin
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=2&section=header" width="100%"/>
 
-## Learning Roadmap
 
-<div align="center">
-
-```mermaid
-graph LR
-    A[TypeScript] --> B[FastAPI]
-    B --> C[System Design]
-    C --> D[AI]
-    D --> E[Security]
-
-    style A fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
-    style B fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
-    style C fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
-    style D fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
-    style E fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=2&section=header" width="100%"/>
 
 ## Fun Facts
 
