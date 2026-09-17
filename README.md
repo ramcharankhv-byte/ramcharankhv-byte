@@ -10,7 +10,13 @@ I build web apps with a focus on the backend: REST APIs, authentication, caching
   <img src="https://skillicons.dev/icons?i=js,ts,py,c,java,html,css,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mongodb,redis,prisma,supabase,vercel,git,postman&perline=21&theme=dark" alt="Tech stack" />
 </p>
 
-$\texttt{AI Agents · Tool-Based Workflows · RAG · LLM Streaming · Microservices · System Design}$
+**Languages** &nbsp;·&nbsp; JavaScript, TypeScript, Python, C, Java  
+**Frontend** &nbsp;·&nbsp; React.js, Next.js, HTML5, CSS3, Tailwind CSS  
+**Backend** &nbsp;·&nbsp; Node.js, Express.js, FastAPI, REST APIs, JWT, OAuth 2.0, Zod  
+**Databases** &nbsp;·&nbsp; PostgreSQL, MongoDB, Redis, Prisma, Mongoose  
+**AI / LLM** &nbsp;·&nbsp; AI Agents, Tool-Based Workflows, LLM Streaming, RAG, Context Management  
+**Tools / DevOps** &nbsp;·&nbsp; Git, GitHub, Postman, Supabase, Vercel, Render  
+**Core Concepts** &nbsp;·&nbsp; System Design, Microservices, Caching, Async Processing, Rate Limiting
 
 ## $\color{#58A6FF}\texttt{Projects}$
 
@@ -42,6 +48,9 @@ $\texttt{AI Agents · Tool-Based Workflows · RAG · LLM Streaming · Microservi
 
 <p align="left">
   <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=ramcharankhv-byte&theme=github-dark-blue&hide_border=true&disable_animations=true" width="49%" alt="GitHub streak" />
+</p>
+<p align="left">
   <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Top languages" />
 </p>
 
