@@ -61,6 +61,5 @@ Attendance and student management app for AU's CSSE department, with face-recogn
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ramcharankhv-byte/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/ramcharankhv"><img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" height="48" alt="X" /></a>&nbsp;&nbsp;
   <a href="https://github.com/ramcharankhv-byte"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
 </p>
