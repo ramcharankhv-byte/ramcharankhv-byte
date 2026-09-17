@@ -46,12 +46,12 @@ I build web apps with a focus on the backend: REST APIs, authentication, caching
 
 ## $\color{#58A6FF}\texttt{GitHub Stats}$
 
-<p align="left">
+<p align="center">
   <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=ramcharankhv-byte&theme=github-dark-blue&hide_border=true&disable_animations=true" width="49%" alt="GitHub streak" />
-</p>
-<p align="left">
   <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ramcharankhv-byte&theme=github-dark-blue&disable_animations=true&card_width=990&card_height=200&border=30363d&background=0d1117&border_radius=6" width="99%" alt="GitHub streak" />
 </p>
 
 ## $\color{#58A6FF}\texttt{Connect}$
