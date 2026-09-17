@@ -10,42 +10,47 @@ I build web apps with a focus on the backend: REST APIs, authentication, caching
   <img src="https://skillicons.dev/icons?i=js,ts,py,c,java,html,css,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mongodb,redis,prisma,supabase,vercel,git,postman&perline=21&theme=dark" alt="Tech stack" />
 </p>
 
-### Languages · JavaScript, TypeScript, Python, C, Java
-### Frontend · React.js, Next.js, HTML5, CSS3, Tailwind CSS
-### Backend · Node.js, Express.js, FastAPI, REST APIs, JWT, OAuth 2.0, Zod
-### Databases · PostgreSQL, MongoDB, Redis, Prisma, Mongoose
-### AI / LLM · AI Agents, Tool-Based Workflows, LLM Streaming, RAG
-### Tools · Git, GitHub, Postman, Supabase, Vercel, Render
-### Concepts · System Design, Microservices, Caching, Async Processing
+### $\texttt{Languages · JavaScript, TypeScript, Python, C, Java}$
+### $\texttt{Frontend · React.js, Next.js, HTML5, CSS3, Tailwind CSS}$
+### $\texttt{Backend · Node.js, Express.js, FastAPI, REST APIs, JWT, OAuth 2.0, Zod}$
+### $\texttt{Databases · PostgreSQL, MongoDB, Redis, Prisma, Mongoose}$
+### $\texttt{AI / LLM · AI Agents, Tool-Based Workflows, LLM Streaming, RAG}$
+### $\texttt{Tools · Git, GitHub, Postman, Supabase, Vercel, Render}$
+### $\texttt{Concepts · System Design, Microservices, Caching, Async Processing}$
 
 ## $\Large\color{#58A6FF}\texttt{Projects}$
 
-### [Cine-Mark](https://github.com/ramcharankhv-byte/CINE-MARK)
+### $\color{#58A6FF}\texttt{Cine-Mark}$
 Movie discovery and watchlist platform with a modular REST API, caching, and rate limiting.  
-`Node.js` `Express.js` `Prisma` `PostgreSQL` `Redis` `JWT` `OAuth 2.0` `FastAPI` `Next.js`
+`Node.js` `Express.js` `Prisma` `PostgreSQL` `Redis` `JWT` `OAuth 2.0` `FastAPI` `Next.js`  
+[GitHub](https://github.com/ramcharankhv-byte/CINE-MARK) · [Live](https://cine-mark-eosin.vercel.app/)
 
-### [Notes-Flow](https://github.com/ramcharankhv-byte/NOTES-FLOW) · [Live](https://notes-flow-lake.vercel.app)
+### $\color{#58A6FF}\texttt{Notes-Flow}$
 SaaS workspace for notes and a Kanban-style task board.  
-`Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Redis` `JWT` `OAuth 2.0`
+`Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Redis` `JWT` `OAuth 2.0`  
+[GitHub](https://github.com/ramcharankhv-byte/NOTES-FLOW) · [Live](https://notes-flow-lake.vercel.app)
 
-### [AI-Bridge](https://github.com/ramcharankhv-byte/AI-BRIDGE)
+### $\color{#58A6FF}\texttt{AI-Bridge}$
 AI gateway microservice that proxies inference to FastAPI through async workers, built with a 3-member team.  
-`Node.js` `Express.js` `TypeScript` `Prisma` `PostgreSQL` `FastAPI`
+`Node.js` `Express.js` `TypeScript` `Prisma` `PostgreSQL` `FastAPI`  
+[GitHub](https://github.com/ramcharankhv-byte/AI-BRIDGE) · [Live](https://aibridge-lilac.vercel.app/)
 
-### [CSSE SuperStudent](https://github.com/ramcharankhv-byte/CSSE-SUPERSTUDENT) · [Live](https://csse-superstudent.vercel.app)
+### $\color{#58A6FF}\texttt{CSSE SuperStudent}$
 Attendance and student management app for AU's CSSE department, with face-recognition attendance.  
-`Next.js` `TypeScript` `Tailwind CSS` `TensorFlow.js` `Supabase`
+`Next.js` `TypeScript` `Tailwind CSS` `TensorFlow.js` `Supabase`  
+[GitHub](https://github.com/ramcharankhv-byte/CSSE-SUPERSTUDENT) · [Live](https://csse-superstudent.vercel.app)
 
-### [AERO-VIEW](https://github.com/ramcharankhv-byte/AERO-VIEW)
+### $\color{#58A6FF}\texttt{AERO-VIEW}$
 3D property mapping platform based on ULPIN, modelling parcels, buildings, floors, units, and underground utilities.  
-`Next.js` `TypeScript` `Cesium` `PostGIS` `Zustand` `Tailwind CSS`
+`Next.js` `TypeScript` `Cesium` `PostGIS` `Zustand` `Tailwind CSS`  
+[GitHub](https://github.com/ramcharankhv-byte/AERO-VIEW) · [Live](https://aero-view-theta.vercel.app/)
 
 ## $\Large\color{#58A6FF}\texttt{Achievements}$
 
-### 🥉 SIH Internal Hackathon · 3rd of 122 teams (AERO-VIEW)
-### 🥉 AuraX Hackathon · 3rd of 20 teams (CSSE SuperStudent)
-### 🥈 AuraX Technical Quiz · 2nd place
-### 🎯 AP EAMCET Rank 1718 · AUEET Rank 23
+### 🥉 $\texttt{SIH Internal Hackathon · 3rd of 122 teams (AERO-VIEW)}$
+### 🥉 $\texttt{AuraX Hackathon · 3rd of 20 teams (CSSE SuperStudent)}$
+### 🥈 $\texttt{AuraX Technical Quiz · 2nd place}$
+### 🎯 $\texttt{AP EAMCET Rank 1718 · AUEET Rank 23}$
 
 ## $\Large\color{#58A6FF}\texttt{GitHub Stats}$
 
@@ -60,6 +65,6 @@ Attendance and student management app for AU's CSSE department, with face-recogn
 ## $\Large\color{#58A6FF}\texttt{Connect}$
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ramcharankhv-byte/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/ramcharankhv-byte"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ramcharankhv-byte/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/ramcharankhv-byte"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
 </p>
