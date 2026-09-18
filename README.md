@@ -62,9 +62,3 @@ Attendance and student management app for AU's CSSE department, with face-recogn
   <img src="https://streak-stats.demolab.com?user=ramcharankhv-byte&theme=github-dark-blue&disable_animations=true&card_width=990&card_height=200&border=30363d&background=0d1117&border_radius=6" width="99%" alt="GitHub streak" />
 </p>
 
-## $\Large\color{#58A6FF}\texttt{Connect}$
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ramcharankhv-byte/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/ramcharankhv-byte"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
-</p>
