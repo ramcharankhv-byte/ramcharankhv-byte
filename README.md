@@ -1,8 +1,8 @@
 # $\Huge\color{#58A6FF}\texttt{KHV Sai Ram Charan}$
 
-### $\large\texttt{Full Stack Developer · B.Tech CSE @ Andhra University}$
+### $\large\texttt{Backend-Focused Full Stack Developer · B.Tech CSE @ Andhra University}$
 
-I build web apps with a focus on the backend: REST APIs, authentication, caching, and async processing. Lately I've been working with AI agents, tool-based workflows, and streaming LLM responses.
+I build backend systems: REST APIs, authentication, caching, and async processing. Lately I've been integrating AI into products through agents, tool-based workflows, and streaming LLM responses.
 
 ## $\Large\color{#58A6FF}\texttt{Tech Stack}$
 
@@ -11,38 +11,65 @@ I build web apps with a focus on the backend: REST APIs, authentication, caching
 </p>
 
 ### $\texttt{Languages · JavaScript, TypeScript, Python, C, Java}$
-### $\texttt{Frontend · React.js, Next.js, HTML5, CSS3, Tailwind CSS}$
 ### $\texttt{Backend · Node.js, Express.js, FastAPI, REST APIs, JWT, OAuth 2.0, Zod}$
 ### $\texttt{Databases · PostgreSQL, MongoDB, Redis, Prisma, Mongoose}$
 ### $\texttt{AI / LLM · AI Agents, Tool-Based Workflows, LLM Streaming, RAG}$
+### $\texttt{Frontend · React.js, Next.js, HTML5, CSS3, Tailwind CSS}$
 ### $\texttt{Tools · Git, GitHub, Postman, Supabase, Vercel, Render}$
-### $\texttt{Concepts · System Design, Microservices, Caching, Async Processing}$
+### $\texttt{Concepts · System Design, Microservices, Caching, Rate Limiting, Async Processing}$
 
 ## $\Large\color{#58A6FF}\texttt{Projects}$
 
+### $\color{#58A6FF}\texttt{AI-Bridge}$
+Distributed AI gateway microservice, built with a 3-member team.  
+`Node.js` `Express.js` `TypeScript` `Prisma` `PostgreSQL` `FastAPI`
+
+- Engineered the central TypeScript/Express gateway that manages businesses, widgets, and chat sessions on Prisma/PostgreSQL.
+- Designed async worker-based processing that proxies AI/ML inference to FastAPI without blocking the main event loop.
+- Kept AI API keys server-side so no credentials reach the client.
+
+[GitHub](https://github.com/ramcharankhv-byte/AI-BRIDGE) · [Live](https://aibridge-lilac.vercel.app/)
+
+<!-- Optional: add a load-test number here, e.g. "sustained N concurrent chat sessions at p95 X ms" -->
+
 ### $\color{#58A6FF}\texttt{Cine-Mark}$
-Movie discovery and watchlist platform with a modular REST API, caching, and rate limiting.  
-`Node.js` `Express.js` `Prisma` `PostgreSQL` `Redis` `JWT` `OAuth 2.0` `FastAPI` `Next.js`  
+Movie discovery and watchlist platform.  
+`Node.js` `Express.js` `Prisma` `PostgreSQL` `Redis` `Supabase` `JWT` `OAuth 2.0` `FastAPI` `Next.js`
+
+- Designed a modular REST API across authentication, movie discovery, and watchlist domains, with validation, pagination, health checks, and API documentation.
+- Integrated Supabase authentication, Prisma/PostgreSQL persistence, and the OMDB API for movie data.
+- Added Redis caching, rate limiting, structured logging, and deployment workflows for production readiness.
+
 [GitHub](https://github.com/ramcharankhv-byte/CINE-MARK) · [Live](https://cine-mark-eosin.vercel.app/)
+
+<!-- Optional: add cache hit ratio or latency improvement, e.g. "cut median response time by X%" -->
 
 ### $\color{#58A6FF}\texttt{Notes-Flow}$
 SaaS workspace for notes and a Kanban-style task board.  
-`Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Redis` `JWT` `OAuth 2.0`  
+`Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Redis` `JWT` `OAuth 2.0`
+
+- Built a modular Express/MongoDB backend (controllers, models, routes) covering authentication, workspaces, notes, and a Kanban board with status transitions.
+- Implemented local and Google OAuth 2.0 login with access/refresh JWTs stored in HttpOnly cookies.
+- Added Redis caching, request validation, logging, and rate limiting to harden the API.
+
 [GitHub](https://github.com/ramcharankhv-byte/NOTES-FLOW) · [Live](https://notes-flow-lake.vercel.app)
 
-### $\color{#58A6FF}\texttt{AI-Bridge}$
-AI gateway microservice that proxies inference to FastAPI through async workers, built with a 3-member team.  
-`Node.js` `Express.js` `TypeScript` `Prisma` `PostgreSQL` `FastAPI`  
-[GitHub](https://github.com/ramcharankhv-byte/AI-BRIDGE) · [Live](https://aibridge-lilac.vercel.app/)
-
 ### $\color{#58A6FF}\texttt{CSSE SuperStudent}$
-Attendance and student management app for AU's CSSE department, with face-recognition attendance.  
-`Next.js` `TypeScript` `Tailwind CSS` `TensorFlow.js` `Supabase`  
+Attendance and student management app for AU's CSSE department.  
+`Next.js` `TypeScript` `Tailwind CSS` `TensorFlow.js` `Supabase`
+
+- Built a student management platform with face-recognition attendance using TensorFlow.js.
+- Placed 🥉 3rd of 20 teams at the AuraX Hackathon.
+
 [GitHub](https://github.com/ramcharankhv-byte/CSSE-SUPERSTUDENT) · [Live](https://csse-superstudent.vercel.app)
 
 ### $\color{#58A6FF}\texttt{AERO-VIEW}$
-3D property mapping platform based on ULPIN, modelling parcels, buildings, floors, units, and underground utilities.  
-`Next.js` `TypeScript` `Cesium` `PostGIS` `Zustand` `Tailwind CSS`  
+3D property mapping platform based on ULPIN.  
+`Next.js` `TypeScript` `Cesium` `PostGIS` `Zustand` `Tailwind CSS`
+
+- Modelled parcels, buildings, floors, units, and underground utilities in a 3D geospatial view using Cesium and PostGIS.
+- Placed 🥉 3rd of 122 teams at the SIH Internal Hackathon.
+
 [GitHub](https://github.com/ramcharankhv-byte/AERO-VIEW) · [Live](https://aero-view-theta.vercel.app/)
 
 ## $\Large\color{#58A6FF}\texttt{Achievements}$
@@ -61,4 +88,3 @@ Attendance and student management app for AU's CSSE department, with face-recogn
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ramcharankhv-byte&theme=github-dark-blue&disable_animations=true&card_width=990&card_height=200&border=30363d&background=0d1117&border_radius=6" width="99%" alt="GitHub streak" />
 </p>
-
