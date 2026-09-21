@@ -1,6 +1,6 @@
 # $\Huge\color{#58A6FF}\texttt{KHV Sai Ram Charan}$
 
-### $\large\texttt{Backend-Focused Full Stack Developer · B.Tech CSE @ Andhra University}$
+### $\large\texttt{ Sofwtware Developer · B.Tech CSE @ Andhra University}$
 
 I build backend systems: REST APIs, authentication, caching, and async processing. Lately I've been integrating AI into products through agents, tool-based workflows, and streaming LLM responses.
 
