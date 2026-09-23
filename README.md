@@ -1,26 +1,26 @@
-# $\Huge\color{#58A6FF}\texttt{KHV Sai Ram Charan}$
+# KHV Sai Ram Charan
 
-### $\large\texttt{ Software Developer · B.Tech CSE @ Andhra University}$
+**Software Developer · B.Tech CSE @ Andhra University**
 
 I build backend systems: REST APIs, authentication, caching, and async processing. Lately I've been integrating AI into products through agents, tool-based workflows, and streaming LLM responses.
 
-## $\Large\color{#58A6FF}\texttt{Tech Stack}$
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,py,c,java,html,css,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mongodb,redis,prisma,supabase,vercel,git,postman&perline=21&theme=dark" alt="Tech stack" />
 </p>
 
-### $\texttt{Languages · JavaScript, TypeScript, Python, C, Java}$
-### $\texttt{Backend · Node.js, Express.js, FastAPI, REST APIs, JWT, OAuth 2.0, Zod}$
-### $\texttt{Databases · PostgreSQL, MongoDB, Redis, Prisma, Mongoose}$
-### $\texttt{AI / LLM · AI Agents, Tool-Based Workflows, LLM Streaming, RAG}$
-### $\texttt{Frontend · React.js, Next.js, HTML5, CSS3, Tailwind CSS}$
-### $\texttt{Tools · Git, GitHub, Postman, Supabase, Vercel, Render}$
-### $\texttt{Concepts · System Design, Microservices, Caching, Rate Limiting, Async Processing}$
+- **Languages:** JavaScript, TypeScript, Python, C, Java
+- **Backend:** Node.js, Express.js, FastAPI, REST APIs, JWT, OAuth 2.0, Zod
+- **Databases:** PostgreSQL, MongoDB, Redis, Prisma, Mongoose
+- **AI / LLM:** AI Agents, Tool-Based Workflows, LLM Streaming, RAG
+- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
+- **Tools:** Git, GitHub, Postman, Supabase, Vercel, Render
+- **Concepts:** System Design, Microservices, Caching, Rate Limiting, Async Processing
 
-## $\Large\color{#58A6FF}\texttt{Projects}$
+## Projects
 
-### $\color{#58A6FF}\texttt{AI-Bridge}$
+### AI-Bridge
 Distributed AI gateway microservice, built with a 3-member team.  
 `Node.js` `Express.js` `TypeScript` `Prisma` `PostgreSQL` `FastAPI`
 
@@ -32,7 +32,7 @@ Distributed AI gateway microservice, built with a 3-member team.
 
 <!-- Optional: add a load-test number here, e.g. "sustained N concurrent chat sessions at p95 X ms" -->
 
-### $\color{#58A6FF}\texttt{Cine-Mark}$
+### Cine-Mark
 Movie discovery and watchlist platform.  
 `Node.js` `Express.js` `Prisma` `PostgreSQL` `Redis` `Supabase` `JWT` `OAuth 2.0` `FastAPI` `Next.js`
 
@@ -44,7 +44,7 @@ Movie discovery and watchlist platform.
 
 <!-- Optional: add cache hit ratio or latency improvement, e.g. "cut median response time by X%" -->
 
-### $\color{#58A6FF}\texttt{Notes-Flow}$
+### Notes-Flow
 SaaS workspace for notes and a Kanban-style task board.  
 `Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Redis` `JWT` `OAuth 2.0`
 
@@ -54,7 +54,7 @@ SaaS workspace for notes and a Kanban-style task board.
 
 [GitHub](https://github.com/ramcharankhv-byte/NOTES-FLOW) · [Live](https://notes-flow-lake.vercel.app)
 
-### $\color{#58A6FF}\texttt{CSSE SuperStudent}$
+### CSSE SuperStudent
 Attendance and student management app for AU's CSSE department.  
 `Next.js` `TypeScript` `Tailwind CSS` `TensorFlow.js` `Supabase`
 
@@ -63,7 +63,7 @@ Attendance and student management app for AU's CSSE department.
 
 [GitHub](https://github.com/ramcharankhv-byte/CSSE-SUPERSTUDENT) · [Live](https://csse-superstudent.vercel.app)
 
-### $\color{#58A6FF}\texttt{AERO-VIEW}$
+### AERO-VIEW
 3D property mapping platform based on ULPIN.  
 `Next.js` `TypeScript` `Cesium` `PostGIS` `Zustand` `Tailwind CSS`
 
@@ -72,14 +72,14 @@ Attendance and student management app for AU's CSSE department.
 
 [GitHub](https://github.com/ramcharankhv-byte/AERO-VIEW) · [Live](https://aero-view-theta.vercel.app/)
 
-## $\Large\color{#58A6FF}\texttt{Achievements}$
+## Achievements
 
-### 🥉 $\texttt{SIH Internal Hackathon · 3rd of 122 teams (AERO-VIEW)}$
-### 🥉 $\texttt{AuraX Hackathon · 3rd of 20 teams (CSSE SuperStudent)}$
-### 🥈 $\texttt{AuraX Technical Quiz · 2nd place}$
-### 🎯 $\texttt{AP EAMCET Rank 1718 · AUEET Rank 23}$
+- 🥉 **SIH Internal Hackathon** · 3rd of 122 teams (AERO-VIEW)
+- 🥉 **AuraX Hackathon** · 3rd of 20 teams (CSSE SuperStudent)
+- 🥈 **AuraX Technical Quiz** · 2nd place
+- 🎯 **AP EAMCET Rank 1718** · AUEET Rank 23
 
-## $\Large\color{#58A6FF}\texttt{GitHub Stats}$
+## GitHub Stats
 
 <p align="center">
   <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats" />
