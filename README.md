@@ -1,4 +1,4 @@
-# I build backend systems: REST APIs, authentication, caching, and async processing. Lately I've been integrating AI into products through agents, tool-based workflows, and streaming LLM responses.
+### **I build backend systems: REST APIs, authentication, caching, and async processing. Lately I've been integrating AI into products through agents, tool-based workflows, and streaming LLM responses.**
 
 ## Tech Stack
 
