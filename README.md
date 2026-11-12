@@ -5,10 +5,15 @@
 <br>
 
 <table>
+<thead>
 <tr>
-<td width="50%" valign="top">
-
-## Tech Stack
+<th width="50%" align="left">Tech Stack</th>
+<th width="50%" align="left">Achievements</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">
 
 - **Languages:** JavaScript, TypeScript, Python, C, Java
 - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
@@ -17,9 +22,7 @@
 - **AI / LLM:** AI Agents, Tool-Based Workflows, LLM Streaming, RAG
 
 </td>
-<td width="50%" valign="top">
-
-## Achievements
+<td valign="top">
 
 - **Edumoon Innovation Challenge:** 1st of 25 teams
 - **IIT Bombay Geo AI Hackathon:** Top 10 of 50+ teams
@@ -31,6 +34,7 @@
 
 </td>
 </tr>
+</tbody>
 </table>
 
 ## GitHub Streak
