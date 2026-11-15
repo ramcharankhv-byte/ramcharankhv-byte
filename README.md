@@ -37,6 +37,8 @@
 </tbody>
 </table>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramcharankhv-byte&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,c,java,html,css,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mongodb,redis,prisma,supabase,vercel,git,postman&perline=21&theme=dark" alt="Tech stack icons" />
