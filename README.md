@@ -37,10 +37,6 @@
 </tbody>
 </table>
 
-## GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ramcharankhv-byte&theme=github-dark-blue&disable_animations=true&card_width=990&card_height=200&border=30363d&background=0d1117&border_radius=6" width="100%" alt="GitHub streak" />
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,c,java,html,css,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mongodb,redis,prisma,supabase,vercel,git,postman&perline=21&theme=dark" alt="Tech stack icons" />
